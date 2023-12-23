@@ -1,0 +1,14 @@
+.name-input, .email-input{
+    display: block;
+    margin-bottom: 8px;
+}
+
+p {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.buttons{
+    display: inline-block;
+}
