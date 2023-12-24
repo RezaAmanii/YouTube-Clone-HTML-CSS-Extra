@@ -1,0 +1,58 @@
+.profile-card{
+    border-color: rgb(150,150,150);
+    border-width: 10px;
+    width: 150px;
+    height: 240px;
+    box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.profile-pic{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 3px;
+    object-fit: cover;
+    
+}
+
+.profile-name{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 10px;
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+.profile-friends{
+    font-family: Arial;
+    color: rgb(122, 122, 122);
+    font-size: 12px;
+    padding-left: 10px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.add-friend-button{
+    color: white;
+    border: none;
+    background-color: rgb(27, 106, 209);
+    margin-left: 10px;
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 11px;
+    padding-right: 11px;
+    margin-top: 0;
+    transition: background-color 0.3s opacity 1s;
+}
+
+.add-friend-button:hover{
+    cursor: pointer;
+    background-color: rgb(51, 119, 207);
+}
+
+.add-friend-button:active{
+    opacity: 0.8;
+}
