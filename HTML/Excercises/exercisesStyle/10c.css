@@ -1,0 +1,53 @@
+p{
+    font-family: Roboto, Ariel;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.cards-row{
+    margin-bottom: 9px;
+}
+
+.title-of-video{
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.title-box{
+    margin-bottom: 10px;
+}
+
+.vidoe-title{
+    display: block;
+}
+
+.video-picture{
+    width: 100%;
+    height: 75px;
+    object-fit: cover;
+}
+
+.video-picture-box{
+    display: inline-block;
+    width: 80px;
+    margin-right: 5px;
+    
+}
+
+.video-discription-box{
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+
+.discription-box{
+    margin-bottom: 5px;
+}
+
+
+.video-discription, .video-stats{
+    font-size: 10px;
+    display: block;
+    color: rgb(96,96,96);
+}
