@@ -1,16 +1,8 @@
-p{
-    font-family: Roboto, Arial;
-    margin-top: 0;
-    margin-bottom: 0;
-}
 
 .thumbnail{
     width: 100%;
 }
 
-.search-bar{
-    display: block;
-}
 
 .video-title{
     margin-top: 0;
@@ -52,4 +44,6 @@ p{
     column-gap: 16px;
     row-gap: 40px;
 }
+
+
 
