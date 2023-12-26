@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.flex-1{
+    display: flex;
+    align-items: center;
+    background-color: lightpink;
+    width: 100px;
+    height: 50px;
+    padding-left: 50px;
+}
+
+.item-text{
+    background-color: black;
+    color: white;
+
+}
+
+.flex-2{
+    display: flex;
+    align-items: center;
+    background-color: lightblue;
+    width: 200px;
+    height: 50px;
+}
+
+.flex-3{
+    background-color: lightblue;
+    width: 200px;
+    height: 50px;
+}
